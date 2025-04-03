@@ -1,0 +1,236 @@
+"School Year",State,"File Spec","Data Group","Reporting Level","Data Note","State Note"
+"2020-2021,2019-2020","ALL STATES","150,151","695,698","LEA,SCH,SEA","Under the Elementary and Secondary Education Act of 1965, any student who receives a regular high school diploma, or higher diploma, within four years from when the student first started grade 9 is counted as a graduate in the 4-year adjusted cohort graduation rate (ACGR). Note that State educational agencies (SEAs) may have changed their requirements for a regular high school diploma to account for the impact of COVID-19. Changes to requirements for a regular high school diploma are at the discretion of the SEA. The Department advises caution when interpreting changes in school year 2019-2020 and school year 2020-2021 data as prior year data may be less comparable.","The state notes in all sections of ED Data Express reflect the views of the state only and do not necessarily reflect compliance with requirements or consistency with reporting instructions."
+"2020-2021,2019-2020,2018-2019,2017-2018,2016-2017,2015-2016,2014-2015,2013-2014,2012-2013,2011-2012,2010-2011","ALL STATES","150,150151","695,695696","LEA,SCH","At the LEA- and School-levels, the subgroups 'Asian' and 'Native Hawaiian or Other Pacific Islanders' are aggregated and reported as 'Asian/Pacific Islander'.At the LEA- and School-levels, the subgroups 'Asian' and 'Native Hawaiian or Other Pacific Islanders' are aggregated and reported as 'Asian/Pacific Islander'.","The state notes in all sections of ED Data Express reflect the views of the state only and do not necessarily reflect compliance with requirements or consistency with reporting instructions."
+2020-2021,"BUREAU OF INDIAN EDUCATION","150,151","695,696","LEA,SCH,SEA","Due to concerns with data quality, Four-Year ACGR data (FS150/DG695, FS151/DG696) have been suppressed for all levels for SY2020-2021.",
+2020-2021,CALIFORNIA,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the MAN, MB subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- MAN: 100 students, or 3.83%, 
+- MB: 1281 students, or 4.53%","It has not been the CDE's practice to include ""direct-funded"" charters in the LEA file because CDE considers them to be schools. The Department understands that charter schools in California may elect to receive funding either directly from the State or locally through the LEA that granted its charter. Thus, the charter school may be considered a charter school LEA for funding purposes and reported in this file as an LEA rather than included in the counts for the LEA that authorized the charter school. Moving forward the CDE will include direct-funded charters and their corresponding data in the LEA file. This change will result in the data for the school file equaling the data in LEA file."
+2020-2021,CONNECTICUT,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ALL, ECODIS, FCS, HOM, LEP, MB, MHL, MM, MW, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ALL: 2315 students, or 5.63%, 
+- ECODIS: 1704 students, or 9.08%, 
+- FCS: 177 students, or 38.48%, 
+- HOM: 79 students, or 19.41%, 
+- LEP: 154 students, or 6.38%, 
+- MB: 543 students, or 10.31%, 
+- MHL: 750 students, or 7.63%, 
+- MM: 86 students, or 6.4%, 
+- MW: 897 students, or 3.98%, 
+- CWD: 1634 students, or 24.03%","Differences between district total and school total is because students in outplaced facilities, including correctional facilities, are counted only in the district cohort. See the documentation on page 13, item 10 in the frequently asked questions section (Appendix B) 
+
+https://edsight.ct.gov/relatedreports/ReportNotes_Grad.pdf"
+2020-2021,DELAWARE,"150,151","695,696",SCH,"Reported Rate to Calculated Rate Comparison (SCH): The reported graduation rate (FS150) does not match the graduation rate calculated using reported counts (FS151) for 47 schools. The difference between the reported and calculated rates range from -80.00% to 66.67%. These should match by up to four decimal places.",
+2020-2021,GEORGIA,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the FCS, HOM, LEP, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- FCS: 37 students, or 8.03%, 
+- HOM: 1170 students, or 24.46%, 
+- LEP: 344 students, or 4.8%, 
+- CWD: 511 students, or 3.41%","A student at the SCH level might not qualify for the 4-Year Cohort Count, but qualified for the 4-Year Cohort Count at the SEA level."
+"2020-2021,2019-2020,2018-2019",ILLINOIS,"150,151","695,696","LEA,SCH,SEA","Due to concerns with data quality, Four-Year ACGR data (FS150/DG695, FS151/DG696) have been suppressed from the SY 2018-19 Four-Year ACGR public files at the LEA and SCH levels and suppressed for all levels for SY2019-2020 AND SY2020-2021.",
+2020-2021,IOWA,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is 28 students different from the aggregated SCH Total Cohort Count, when aggregated to the FCS subgroup. This is a difference of 7.04%.","Tuitioned in-state paid students were reported back to SEA-level (state level accountability)."
+2020-2021,KENTUCKY,"150,151","695,696","LEA,SCH,SEA","FS150 (DG695) and FS151 (DG696) SEA/LEA/SCH data were not reported for the following subgroup(s): FCS.",
+2020-2021,LOUISIANA,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ALL, ECODIS, FCS, HOM, LEP, MA, MAN, MB, MHL, MM, MW, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ALL: 3329 students, or 6.78%, 
+- ECODIS: 2454 students, or 7.57%, 
+- FCS: 35 students, or 35%, 
+- HOM: 211 students, or 23.63%, 
+- LEP: 107 students, or 9.01%, 
+- MA: 34 students, or 3.85%, 
+- MAN: 38 students, or 10.86%, 
+- MB: 1589 students, or 7.5%, 
+- MHL: 271 students, or 8.57%, 
+- MM: 92 students, or 9.94%, 
+- MW: 1297 students, or 5.75%, 
+- CWD: 335 students, or 6.77%",
+2020-2021,MAINE,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ALL, ECODIS, MW, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ALL: 1127 students, or 8.15%, 
+- ECODIS: 414 students, or 6.44%, 
+- MW: 1044 students, or 8.47%, 
+- CWD: 173 students, or 6.3%","There are 1127 students attending private schools at public expense because the LEAs they reside in either do not have any high schools or have no schools at all, and tuition out their students to either nearby public schools or private schools. Those students attending a private school at public expense are included in the LEA and SEA counts but are excluded from the School counts"
+2020-2021,MASSACHUSETTS,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ECODIS, FCS, LEP, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ECODIS: 1057 students, or 3.12%, 
+- FCS: 76 students, or 17.8%, 
+- LEP: 214 students, or 3.09%, 
+- CWD: 1350 students, or 9.16%",
+2020-2021,MASSACHUSETTS,"150,151","695,696",SCH,"Across File Comparison: Four-Year cohort data were submitted for FS151 for 7 schools, but not for FS150. 
+
+Schools identified: 
+-Argosy Collegiate Charter School, NCES ID: 250055202827, State ID: 35090305
+-Crowell, NCES ID: 250597002907, State ID: 1280515
+-TEACH, NCES ID: 250597001706, State ID: 1280073
+-RISE Academy, NCES ID: 250666002919, State ID: 1490615
+-Neighborhood House Charter School, NCES ID: 250002900545, State ID: 4440205
+-New Heights Charter School of Brockton, NCES ID: 250055902869, State ID: 35130305
+-Eagle Education Academy, NCES ID: 250963002915, State ID: 2360525",
+2020-2021,MASSACHUSETTS,"150,151","695,696",SCH,"Across File Comparison: Four-Year cohort data were submitted for FS150 for 141 schools, but not for FS151. Note: The list below only includes the first 25 SCHs identified. Please contact EDFacts for a complete list of SCHs identified.
+
+Schools identified: 
+-Abby Kelley Foster Charter Public School, NCES ID: 250005101247, State ID: 4450105
+-Acton-Boxborough Regional High, NCES ID: 250171000012, State ID: 6000505
+-Agawam High, NCES ID: 250180000024, State ID: 50505
+-Arlington High, NCES ID: 250198000053, State ID: 100505
+-Atlantis Charter School, NCES ID: 250004100601, State ID: 4910550
+-Auburn Senior High, NCES ID: 250222000100, State ID: 170505
+-Bedford High, NCES ID: 250240000128, State ID: 230505
+-Belchertown High, NCES ID: 250243000134, State ID: 240505
+-Tahanto Regional High, NCES ID: 250258000160, State ID: 6200505
+-Beverly High, NCES ID: 250264000164, State ID: 300505
+-Billerica Memorial High School, NCES ID: 250267000177, State ID: 310505
+-Blackstone Valley, NCES ID: 250271000191, State ID: 8050605
+-Blue Hills Regional Vocational Technical, NCES ID: 250274000193, State ID: 8060605
+-Another Course To College, NCES ID: 250279000698, State ID: 350541
+-Boston Arts Academy, NCES ID: 250279001128, State ID: 350546
+-Boston Latin, NCES ID: 250279000203, State ID: 350560
+-Dearborn, NCES ID: 250279000222, State ID: 350074
+-Horace Mann School for the Deaf, NCES ID: 250279002374, State ID: 350750
+-Lyon Upper 9-12, NCES ID: 250279002674, State ID: 350655
+-O'Bryant School Math/Science, NCES ID: 250279000205, State ID: 350575
+-Boston Preparatory Charter Public School, NCES ID: 250008001843, State ID: 4160305
+-Bourne High School, NCES ID: 250282000348, State ID: 360505",
+2020-2021,MASSACHUSETTS,150,695,SCH,"Completeness (SCH): The number of graduation rates expected based on Membership data (FS052) does not match the number of graduation rates reported (FS150).  6 schools did not report a graduation rate, but did report having a Grade 12 and a School Operational Status of Open, New, Added, Changed, or Reopened for SY 2020-21. 
+
+Schools identified: 
+- Argosy Collegiate Charter School, NCES ID: 250055202827, State ID: 35090305
+- Crowell, NCES ID: 250597002907, State ID: 1280515
+- TEACH, NCES ID: 250597001706, State ID: 1280073
+- Neighborhood House Charter School, NCES ID: 250002900545, State ID: 4440205
+- New Heights Charter School of Brockton, NCES ID: 250055902869, State ID: 35130305
+- Eagle Education Academy, NCES ID: 250963002915, State ID: 2360525",
+2020-2021,MASSACHUSETTS,"150,151","695,696",SCH,"Reported Rate to Calculated Rate Comparison (SCH): The reported graduation rate (FS150) does not match the graduation rate calculated using reported counts (FS151) for 391 schools. The difference between the reported and calculated rates range from -100% to 100%. These should match by up to four decimal places.  Note: The list below only includes the first 25 schools identified. Please contact EDFacts for a complete list of schools identified.
+
+Schools identified:
+-Abby Kelley Foster Charter Public School, NCES ID: 250005101247, State ID: 4450105
+-Abington High, NCES ID: 250165000001, State ID: 10505
+-Academy Of the Pacific Rim Charter Public School, NCES ID: 250002100511, State ID: 4120530
+-Acton-Boxborough Regional High, NCES ID: 250171000012, State ID: 6000505
+-Advanced Math and Science Academy Charter School, NCES ID: 250008501984, State ID: 4300305
+-Agawam High, NCES ID: 250180000024, State ID: 50505
+-Amesbury High, NCES ID: 250186000034, State ID: 70505
+-Amesbury Innovation High School, NCES ID: 250186002841, State ID: 70515
+-Amherst Regional High, NCES ID: 250192000042, State ID: 6050505
+-Andover High, NCES ID: 250195000045, State ID: 90505
+-Arlington High, NCES ID: 250198000053, State ID: 100505
+-Oakmont Regional High School, NCES ID: 250204000069, State ID: 6100505
+-Ashland High, NCES ID: 250210000070, State ID: 140505
+-Assabet Valley Vocational High School, NCES ID: 250211002257, State ID: 8010605
+-Athol High, NCES ID: 250216000074, State ID: 6150505
+-Atlantis Charter School, NCES ID: 250004100601, State ID: 4910550
+-Attleboro Community Academy, NCES ID: 250219002831, State ID: 160515
+-Attleboro High, NCES ID: 250219000084, State ID: 160505
+-Auburn Senior High, NCES ID: 250222000100, State ID: 170505
+-Avon Middle High School, NCES ID: 250225001295, State ID: 180510
+-Ayer Shirley Regional High School, NCES ID: 250054202738, State ID: 6160505
+-Barnstable High, NCES ID: 250231000116, State ID: 200505
+-Baystate Academy Charter Public School, NCES ID: 250055002784, State ID: 35020405
+-Bedford High, NCES ID: 250240000128, State ID: 230505
+-Belchertown High, NCES ID: 250243000134, State ID: 240505",
+2020-2021,MICHIGAN,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ALL, ECODIS, FCS, HOM, LEP, MA, MAN, MB, MHL, MM, MW, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ALL: 8077 students, or 6.91%, 
+- ECODIS: 5525 students, or 10.24%, 
+- FCS: 143 students, or 31.92%, 
+- HOM: 455 students, or 17.33%, 
+- LEP: 528 students, or 9.09%, 
+- MA: 320 students, or 7.54%, 
+- MAN: 58 students, or 7.73%, 
+- MB: 2165 students, or 11.01%, 
+- MHL: 832 students, or 9.21%, 
+- MM: 392 students, or 9.84%, 
+- MW: 4302 students, or 5.43%, 
+- CWD: 1214 students, or 8.84%","Michigan's methodology for the ACGR requires a 2 count day minimum for students to be included in the SCH level count. They are included in the SEA submission though."
+2020-2021,MINNESOTA,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the FCS, HOM, LEP, MAN, MHL, MM, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- FCS: 284 students, or 30.37%, 
+- HOM: 316 students, or 12.04%, 
+- LEP: 176 students, or 3.5%, 
+- MAN: 225 students, or 17.9%, 
+- MHL: 242 students, or 3.78%, 
+- MM: 172 students, or 6.25%, 
+- CWD: 350 students, or 3.35%",
+2020-2021,MISSOURI,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is 331 students different from the aggregated SCH Total Cohort Count, when aggregated to the MB subgroup. This is a difference of 3.26%.",
+2020-2021,"NEW MEXICO","150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ALL, FCS, HOM, MAP, MB subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ALL: -328535 students, or -1313.04%, 
+- FCS: -68 students, or -36.36%, 
+- HOM: -130 students, or -13.82%, 
+- MAP: -43 students, or -9.31%, 
+- MB: -63 students, or -11.17%","The State indicated data are accurate as reported. Also, the State shared that it utilizes a “Shared Accountability” system for attributing graduation success to its LEAs & SCHs. This involves SCHs and LEAs receiving fractional graduation credit depending on how long the student was enrolled at the school. To submit this data into the EDFacts system we are required to round the counts of our students. The accumulated rounding errors causes mismatches between data comparison at an SEA vs LEA & SCH level."
+2020-2021,"NEW MEXICO","150,151","695,696",SCH,"Reported Rate to Calculated Rate Comparison (SCH): The reported graduation rate (FS150) does not match the graduation rate calculated using reported counts (FS151) for 220 schools. The difference between the reported and calculated rates range from -71.02% to 77.60%. These should match by up to four decimal places.",
+2020-2021,"NEW YORK","150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ALL, FCS, HOM, LEP, MAN, MB, MHL, MM, MW, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ALL: 8001 students, or 3.84%, 
+- FCS: 123 students, or 17.55%, 
+- HOM: 433 students, or 5.33%, 
+- LEP: 731 students, or 5.67%, 
+- MAN: 63 students, or 4.49%, 
+- MB: 1757 students, or 4.84%, 
+- MHL: 1879 students, or 3.48%, 
+- MM: 219 students, or 6.09%, 
+- MW: 3768 students, or 4.05%, 
+- CWD: 6282 students, or 17.83%","It is not appropriate to compare SCH level counts to SEA level counts as the SCH counts do not include students in out-of-district placements, when the SEA counts do include these students.  It is expected that the SCH counts will be lower than the SEA counts."
+2020-2021,"NORTH CAROLINA","150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ECODIS, FCS, HOM, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ECODIS: -1171 students, or -3.25%, 
+- FCS: -54 students, or -7.65%, 
+- HOM: -198 students, or -4.73%, 
+- CWD: -633 students, or -4.21%","The State indicated data are accurate as reported."
+2020-2021,OHIO,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is 109 students different from the aggregated SCH Total Cohort Count, when aggregated to the FCS subgroup. This is a difference of 3.58%.","The State indicated data are accurate as reported."
+2020-2021,OREGON,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the FCS, HOM, MAN, MB, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- FCS: 79 students, or 13.14%, 
+- HOM: 165 students, or 4.6%, 
+- MAN: 30 students, or 5.03%, 
+- MB: 61 students, or 5.54%, 
+- CWD: 280 students, or 4.11%",
+2020-2021,PENNSYLVANIA,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the FCS, MB, MHL, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- FCS: 192 students, or 23.85%, 
+- MB: 1298 students, or 6.72%, 
+- MHL: 494 students, or 3.11%, 
+- CWD: 978 students, or 4.01%","The SEA total includes students reported to the state of PA, which may include students not assigned to any school."
+2020-2021,"RHODE ISLAND","150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ECODIS, MM, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ECODIS: 237 students, or 3.96%, 
+- MM: 29 students, or 7.23%, 
+- CWD: 211 students, or 11.61%","SEA totals include students being outplaced by LEAs"
+2020-2021,"SOUTH CAROLINA","150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is 47 students different from the aggregated SCH Total Cohort Count, when aggregated to the FCS subgroup. This is a difference of 7.77%.","The SEA-level count contains group home students, which are not included in the school-level count."
+2020-2021,"SOUTH DAKOTA","150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the FCS, MAN, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- FCS: 29 students, or 48.33%, 
+- MAN: 39 students, or 3.77%, 
+- CWD: 33 students, or 3.49%","All of these students are/were in placement facilities so they are counted at State level or State and District level only."
+2020-2021,TEXAS,"150,151","695,696","SCH,SEA","SEA to SCH Comparison: The SEA 4-Year Total Cohort Count is different from the aggregated SCH Total Cohort Count, when aggregated to the ALL, ECODIS, FCS, HOM, LEP, MAN, MB, MHL, MM, MW, CWD subgroups. 
+
+Differences between SEA and SCH (by subgroup):
+- ALL_STUDENTS: 14127 students, or 3.64%, 
+- ECODIS: 7359 students, or 3.57%, 
+- FCS: 239 students, or 13.85%, 
+- HOM: 1285 students, or 5.74%, 
+- LEP: 1558 students, or 3.37%, 
+- MAN: 50 students, or 3.75%, 
+- MB: 2335 students, or 4.71%, 
+- MHL: 7010 students, or 3.48%, 
+- MM: 353 students, or 4.2%, 
+- MW: 3814 students, or 3.51%, 
+- CWD: 1371 students, or 3.93%",
+2020-2021,UTAH,"150,151","695,696",SCH,"FS150 (DG695) and FS151 (DG696) data were not reported for the following subgroup(s): FCS, HOM.",
+2020-2021,WASHINGTON,"150,151","695,696","LEA,SCH,SEA","Data were not reported at the SEA/LEA/SCH levels for FS150/DG695 and FS151/DG696.",

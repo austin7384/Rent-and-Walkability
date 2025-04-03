@@ -1,3 +1,10 @@
 Living_Arrangements/Living_Arrangements.csv filter=lfs diff=lfs merge=lfs -text
 Internet_Access/Internet_Access.csv filter=lfs diff=lfs merge=lfs -text
 EPA_SmartLocationDatabase_V3_Jan_2021_Final.csv filter=lfs diff=lfs merge=lfs -text
+Block_Group_Exam_Score.csv filter=lfs diff=lfs merge=lfs -text
+EDGE_GEOCODE_PUBLICSCH_2324/EDGE_GEOCODE_PUBLICSCH_2324.sas7bdat filter=lfs diff=lfs merge=lfs -text
+ELA_Scores.csv filter=lfs diff=lfs merge=lfs -text
+Math_Scores.csv filter=lfs diff=lfs merge=lfs -text
+School_Grad_Rates/School_Grad_Rates.csv filter=lfs diff=lfs merge=lfs -text
+cb_2022_us_bg_500k/cb_2022_us_bg_500k.shp filter=lfs diff=lfs merge=lfs -text
+cb_2022_us_bg_500k/cb_2022_us_bg_500k.dbf filter=lfs diff=lfs merge=lfs -text
